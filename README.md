@@ -1,1 +1,1 @@
-# mening_birinchi_loyiham
+# Bu mening GitHubga joylayotgan eng birinchi bajargan loyiham
